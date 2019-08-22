@@ -9,7 +9,7 @@ async function renderRSSFeed({ routes }) {
   let publicURL = process.env.PUBLIC_URL || '/'
   let { paths } = await crawl({
     routes,
-    root: '/posts',
+    root: '/post',
   })
 
   const feed = new Feed({

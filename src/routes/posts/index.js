@@ -22,6 +22,8 @@ let postDetails = postPathnames.map(pathname => {
   let dateMatch = slug.match(datePattern)
   if (dateMatch) {
     date = new Date(dateMatch[2], parseInt(dateMatch[3]) - 1, dateMatch[4])
+  } else {
+    //todo get the date from the post details
   }
 
   return {
