@@ -1,0 +1,6 @@
+.esm-cache
+.vscode
+node_modules
+build
+*.log
+/drive-download-20190821T214911Z-001/
