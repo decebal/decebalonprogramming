@@ -7,7 +7,9 @@ import slugify from 'slugify'
 // Get a list of all posts, that will not be loaded until the user
 // requests them.
 const postModules = importAll.deferred('./**/post.js')
+const postModulesSync = importAll.sync('./**/post.js')
 const importPost = pathname => postModules[pathname]()
+const importPostSync = pathname => postModulesSync[pathname]
 const postPathnames = Object.keys(postModules)
 const datePattern = /^((\d{1,4})-(\d{1,4})-(\d{1,4}))[/-]/
 
@@ -23,7 +25,7 @@ let postDetails = postPathnames.map(pathname => {
   if (dateMatch) {
     date = new Date(dateMatch[2], parseInt(dateMatch[3]) - 1, dateMatch[4])
   } else {
-    //todo get the date from the post details
+    date = importPostSync(pathname).default.date
   }
 
   return {
@@ -33,8 +35,7 @@ let postDetails = postPathnames.map(pathname => {
   }
 })
 
-// Sort the pages by slug (which contain the dates)
-postDetails = sortBy(postDetails, ['slug']).reverse()
+postDetails = sortBy(postDetails, ['date']).reverse()
 
 // Create url-friendly slugs from post pathnames, and a `getPage()` function
 // that can be used to load and return the post's Page object.
@@ -64,11 +65,11 @@ let posts = postDetails.map(({ slug, pathname, date }, i) => ({
         slug,
         previousDetails: previousPost && {
           title: previousPost.title,
-          href: join(context.blogRoot, 'posts', previousSlug),
+          href: join(context.blogRoot, 'post', previousSlug),
         },
         nextDetails: nextPost && {
           title: nextPost.title,
-          href: join(context.blogRoot, 'posts', nextSlug),
+          href: join(context.blogRoot, 'post', nextSlug),
         },
         ...meta,
       }),
