@@ -10240,7 +10240,7 @@ prompts@^2.0.1:
     kleur "^3.0.3"
     sisteransi "^1.0.3"
 
-prop-types@15.7.2, prop-types@^15.5.6, prop-types@^15.6.2:
+prop-types@15.7.2, prop-types@^15.6.2, prop-types@^15.7.2:
   version "15.7.2"
   resolved "https://registry.yarnpkg.com/prop-types/-/prop-types-15.7.2.tgz#52c41e75b8c87e72b9d9360e0206b99dcbffa6c5"
   integrity sha512-8QQikdH7//R2vurIJSutZ1smHYTcLpRWEOlHnzcWHmBYrOGUysKwSsrC89BCiFj3CbrfJ/nXFdJepOVrY1GCHQ==
@@ -10534,14 +10534,14 @@ react-navi@0.13.6:
   dependencies:
     "@types/history" "^4.6.2"
 
-react-player@1.12.0:
-  version "1.12.0"
-  resolved "https://registry.yarnpkg.com/react-player/-/react-player-1.12.0.tgz#01ce8d1b018b9eef10e5cbf8a46bc35ef5bd508e"
-  integrity sha512-KF4rshm9329X9UyR70bI8LsI738gnvbSzxayD/CKz7pMZTDeMhJXgsDgpurCAkb7tDCGxbVqNjG+CP/OLVGcqw==
+react-player@1.14.2:
+  version "1.14.2"
+  resolved "https://registry.yarnpkg.com/react-player/-/react-player-1.14.2.tgz#666f2de883c4c251fe316ce267f2d11f2f201e31"
+  integrity sha512-t3R1szFSA1mkd66R4OSYwONjy1tETySoFYgsFzskhin9WCnypdPOuj5N5+uiuAInSg5ueznxoMGndl3JSoXYlQ==
   dependencies:
     deepmerge "^4.0.0"
     load-script "^1.0.0"
-    prop-types "^15.5.6"
+    prop-types "^15.7.2"
 
 react-scripts-mdx@3.0.3:
   version "3.0.3"
