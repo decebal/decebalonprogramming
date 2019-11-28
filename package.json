@@ -15,6 +15,7 @@
     "prismjs": "^1.17.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
+    "react-iframe": "^1.8.0",
     "react-navi": "^0.13.6",
     "react-navi-helmet-async": "^0.13.6",
     "react-player": "^1.12.0",

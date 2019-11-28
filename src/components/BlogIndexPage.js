@@ -41,6 +41,9 @@ function BlogIndexPage({ blogRoot, pageCount, pageNumber, postRoutes }) {
           <Link href='./about'>
             About
           </Link> &bull;{' '}
+          <Link href='./books'>
+            Books
+          </Link> &bull;{' '}
           <Link href='./tags'>
             Tags
           </Link>
