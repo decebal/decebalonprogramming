@@ -8895,10 +8895,10 @@ natural-orderby@^2.0.1:
   resolved "https://registry.yarnpkg.com/natural-orderby/-/natural-orderby-2.0.3.tgz#8623bc518ba162f8ff1cdb8941d74deb0fdcc016"
   integrity sha512-p7KTHxU0CUrcOXe62Zfrb5Z13nLvPhSWR/so3kFulUQU0sgUll2Z0LwpsLN351eOOD+hRGu/F1g+6xDfPeD++Q==
 
-navi-scripts@0.13.3:
-  version "0.13.3"
-  resolved "https://registry.yarnpkg.com/navi-scripts/-/navi-scripts-0.13.3.tgz#6ab8e3c84bfdef70a7e55e9f039302571718952e"
-  integrity sha512-Qze4d8qOwBM4VKHMKtmj6q0+7xxVdHL28K+qVzMszJitMmzqYz8myREecK+DMzrLV/198HJ5TGYfbIhVoLEt0A==
+navi-scripts@0.14.0:
+  version "0.14.0"
+  resolved "https://registry.yarnpkg.com/navi-scripts/-/navi-scripts-0.14.0.tgz#c071db115bd2b7216dd89b98a2e7f51b58fc3219"
+  integrity sha512-eFt5TF3n3Yl2ILl1dnz8kM8HRikVs4i0dgmYa16vGxUpnu9dg5cCWDCWhn9njLKaFBMV9u6gL5LJOsOonlaboA==
   dependencies:
     "@babel/core" "^7.1.2"
     "@babel/preset-env" "^7.1.0"
