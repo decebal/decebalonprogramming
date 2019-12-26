@@ -11154,10 +11154,10 @@ react-navi-helmet-async@0.14.0:
     "@types/react-helmet" "^5.0.8"
     react-helmet-async "^1.0.2"
 
-react-navi@0.13.6:
-  version "0.13.6"
-  resolved "https://registry.yarnpkg.com/react-navi/-/react-navi-0.13.6.tgz#ee0249cb28e961a0af4f2dce459d993d7ff3d50f"
-  integrity sha512-2dG5j5qpxwI5SJru9ilyYxp8Jp3SOB0lkjbshcWv1L5+8Z4fv/UEmAWa5m1v+2We4w8okO4LH5nlgAmG1szlCg==
+react-navi@0.14.0:
+  version "0.14.0"
+  resolved "https://registry.yarnpkg.com/react-navi/-/react-navi-0.14.0.tgz#4cafcd2c944032eef901bc4029d0198171638d7a"
+  integrity sha512-avABAc/7N71asGXoUnXZp9yYBLs/knLHt+JryfUXxLc3CL8NBOyU7gSXm9nvjkJRjjd6xPD/iCXL2k2LZsH7Zg==
   dependencies:
     "@types/history" "^4.6.2"
 
