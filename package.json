@@ -10,7 +10,7 @@
     "import-all.macro": "2.0.3",
     "lodash": "4.17.15",
     "navi": "0.13.6",
-    "navi-scripts": "0.13.3",
+    "navi-scripts": "0.14.0",
     "netlify-cli": "2.24.0",
     "prismjs": "1.17.1",
     "react": "16.12.0",
