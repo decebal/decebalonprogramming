@@ -11146,10 +11146,10 @@ react-is@^16.8.1, react-is@^16.8.4:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.9.0.tgz#21ca9561399aad0ff1a7701c01683e8ca981edcb"
   integrity sha512-tJBzzzIgnnRfEm046qRcURvwQnZVXmuCbscxUO5RWrGTXpon2d4c8mI0D8WE6ydVIm29JiLB6+RslkIvym9Rjw==
 
-react-navi-helmet-async@0.13.6:
-  version "0.13.6"
-  resolved "https://registry.yarnpkg.com/react-navi-helmet-async/-/react-navi-helmet-async-0.13.6.tgz#c3eec608f6f3d170da1d6c2c63915dbddb29aff5"
-  integrity sha512-M9d1rBPPR8a9bnmL6k+6XsGtG8Jpz4ox/xI3cUvvo01hQNNNMN7fslw2H8vdIUNasdREmQf78JczJuPpJSP7rg==
+react-navi-helmet-async@0.14.0:
+  version "0.14.0"
+  resolved "https://registry.yarnpkg.com/react-navi-helmet-async/-/react-navi-helmet-async-0.14.0.tgz#76fa42016d0acab3f43c6e113c0e74d6a7c5f9a0"
+  integrity sha512-YJrmLNmChPyJ48SUg/HYHQPYTlf/WMgommpakRX/we028QhEydJtjPn5iLhg9wFdI1QanqR+Jw/6q5WSE8IFWw==
   dependencies:
     "@types/react-helmet" "^5.0.8"
     react-helmet-async "^1.0.2"
