@@ -22,7 +22,7 @@
     "react-scripts-mdx": "3.0.3",
     "rimraf": "3.0.0",
     "slugify": "1.4.0",
-    "typescript": "3.7.4"
+    "typescript": "3.9.2"
   },
   "scripts": {
     "start": "react-scripts start",
