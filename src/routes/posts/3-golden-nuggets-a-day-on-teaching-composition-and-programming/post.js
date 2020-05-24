@@ -1,5 +1,5 @@
 export default {
-  author: "Dec.I",
+  author: "Decebal D.",
   title: `3 Golden Nuggets a Day on Teaching Composition and Programming`,
   tags: ["programming", "fp"],
   spoiler: "",

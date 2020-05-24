@@ -1,5 +1,5 @@
 export default {
-  author: "Dec.I",
+  author: "Decebal D.",
   title: `Introduction`,
   tags: ["introduction", "php", "python", "mysql"],
   // date: "2014-01-13T15:00:00+00:00",

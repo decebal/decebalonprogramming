@@ -1,5 +1,5 @@
 export default {
-  author: "Dec.I",
+  author: "Decebal D.",
   title: `Creating a dotfiles installer - My ToDo List`,
   tags: ["zsh", "bash", "dotfiles", "ssh", "python"],
   spoiler: "",

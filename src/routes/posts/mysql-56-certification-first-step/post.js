@@ -1,5 +1,5 @@
 export default {
-  author: "Dec.I",
+  author: "Decebal D.",
   title: `Preparing for Mysql 5.6 Developer Certification`,
   tags: ["learning", "mysql"],
   spoiler: "Prepare the Learning Material",

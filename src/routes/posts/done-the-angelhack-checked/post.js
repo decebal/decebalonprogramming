@@ -1,5 +1,5 @@
 export default {
-  author: "Dec.I",
+  author: "Decebal D.",
   title: "Do the AngelHack - checked",
   tags: ["javascript", "fp", "hackathon", "programming fun"],
   spoiler: "",

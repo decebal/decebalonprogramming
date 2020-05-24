@@ -1,5 +1,5 @@
 export default {
-  author: "Dec.I",
+  author: "Decebal D.",
   title: `Deciding for a dotfiles installer platform`,
   tags: ["dotfiles"],
   spoiler: "",

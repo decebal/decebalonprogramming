@@ -1,5 +1,5 @@
 export default {
-  author: "Dec.I",
+  author: "Decebal D.",
   title: "Domain Driven Design with React Native",
   tags: ["architecture", "DDD", "react-native", "nodejs"],
   spoiler: "Beginning of my story as a programmer",

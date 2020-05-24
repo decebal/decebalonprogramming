@@ -1,5 +1,5 @@
 export default {
-  author: "Dec.I",
+  author: "Decebal D.",
   title: `IoC - Understanding the need for binding interfaces to implementations`,
   tags: ["php", "coding", "oop", "opinions", "programming advice"],
   spoiler: "The problem: *Write testable code.*\n" +

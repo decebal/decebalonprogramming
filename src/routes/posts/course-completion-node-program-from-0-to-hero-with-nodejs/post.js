@@ -1,5 +1,5 @@
 export default {
-  author: "Dec.I",
+  author: "Decebal D.",
   title: `Course Completion - Review - Node Program: From 0 to Hero with Nodejs`,
   tags: ["learning", "course", "javascript", "fp", "programming advice"],
   spoiler: "",

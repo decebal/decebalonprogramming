@@ -1,5 +1,5 @@
 export default {
-  author: "Dec.I",
+  author: "Decebal D.",
   title: "First impressions after passing zcpe",
   tags: ["php"],
   date: new Date("2014-06-25T15:00:00+00:00"),

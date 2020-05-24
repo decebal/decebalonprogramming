@@ -1,5 +1,5 @@
 export default {
-  author: "Dec.I",
+  author: "Decebal D.",
   title: `Creating your own dotfiles - First Episode`,
   tags: ["zsh", "bash", "dotfiles"],
   spoiler: "Customizing the linux console",

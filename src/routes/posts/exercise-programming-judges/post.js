@@ -1,5 +1,5 @@
 export default {
-  author: "Dec.I",
+  author: "Decebal D.",
   date: new Date("2015-09-15T15:00:00+00:00"),
   title: "Exercise your programming skills online",
   tags: ["coding", "learning", "programming fun"],

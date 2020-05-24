@@ -1,5 +1,5 @@
 export default {
-  author: "Dec.I",
+  author: "Decebal D.",
   title: `Day 6 of Machine Learning in Review`,
   tags: ["machine-learning", "research", "100DaysOfMLCode"],
   spoiler: "",

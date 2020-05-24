@@ -1,5 +1,5 @@
 export default {
-  author: "Dec.I",
+  author: "Decebal D.",
   title: `Serverless Days 2019`,
   tags: ["programming", "conferences", "serverless"],
   spoiler: "Serverless Days - London - My Key Takeaways",

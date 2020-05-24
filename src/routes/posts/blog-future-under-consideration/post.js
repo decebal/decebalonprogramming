@@ -1,5 +1,5 @@
 export default {
-  author: "Dec.I",
+  author: "Decebal D.",
   title: `Blog future under consideration`,
   tags: ["opinions"],
   spoiler: "",

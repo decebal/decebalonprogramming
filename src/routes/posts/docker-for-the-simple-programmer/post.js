@@ -1,5 +1,5 @@
 export default {
-  author: "Dec.I",
+  author: "Decebal D.",
   title: `Docker for the simple programmer`,
   tags: ["learning", "docker", "devops"],
   spoiler: "",

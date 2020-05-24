@@ -1,5 +1,5 @@
 export default {
-  author: "Dec.I",
+  author: "Decebal D.",
   title: `How to prepare for Zend PHP Certification 5.5`,
   tags: ["php"],
   spoiler: "Why, how and the whats of preparing for Zend PHP Certification 5.5",

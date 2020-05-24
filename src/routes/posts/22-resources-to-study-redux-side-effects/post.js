@@ -1,5 +1,5 @@
 export default {
-  author: "Dec.I",
+  author: "Decebal D.",
   title: `22 Resources to study Redux Side Effects`,
   tags: ["redux","nodejs","programming","architecture", "resources"],
   spoiler: "",
