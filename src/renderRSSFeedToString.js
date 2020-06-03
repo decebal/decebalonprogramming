@@ -38,11 +38,13 @@ async function renderRSSFeed({ routes }) {
       React.createElement(route.views[route.views.length - 1].MDXComponent)
     )
 
-    // todo: add a date
+    const slugParts = pathname.split('/')
+
     feed.addItem({
       title: route.title,
       id: link,
       link: link,
+      updated: slugParts.length > 2 ? new Date(slugParts[1]) : undefined,
       description: meta.description,
       content,
       author: {
