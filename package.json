@@ -33,7 +33,8 @@
     "eject": "react-scripts eject",
     "serve": "navi-scripts serve",
     "deploy": "netlify deploy --dir=build",
-    "deploy:prod": "netlify deploy --dir=build --prod"
+    "deploy:prod": "netlify deploy --dir=build --prod",
+    "new:post": "hygen post with-prompt"
   },
   "eslintConfig": {
     "extends": "react-app"
