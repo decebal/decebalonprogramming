@@ -1,6 +1,5 @@
 ---
 to: src/routes/posts/<%= folderName %>/post.js
-sh: "touch src/routes/posts/<%= folderName %>/document.mdx"
 ---
 export default {
   author: "Decebal D.",
