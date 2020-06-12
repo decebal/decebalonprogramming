@@ -11882,10 +11882,10 @@ react-navi@0.14.4:
   dependencies:
     "@types/history" "^4.6.2"
 
-react-player@2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/react-player/-/react-player-2.2.0.tgz#dfda060ce0fe87d6d41b168fc53eede449f3ffd4"
-  integrity sha512-TsUn7NL3IWmVwoeU+Jbbbrq6+2HQYsiAyC75deWI0dCkJA3InbR194VBJJiYIZvFL+tUZAcbBDHt+tYyPA0Wjg==
+react-player@2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/react-player/-/react-player-2.3.0.tgz#89242d406623559b65025df2d537da6cd7bade21"
+  integrity sha512-pz2IUOOcAFoVK+qOXHU0oFd3lBdhmJlUjTqUZdZQwJfVbcN2cIvhZ0cCkBR0GgWAE68uLLndK388eE3J9l6oqg==
   dependencies:
     deepmerge "^4.0.0"
     load-script "^1.0.0"
