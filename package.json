@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://decebalonprogramming.net",
   "dependencies": {
-    "@oclif/config": "1.15.1",
+    "@oclif/config": "1.16.0",
     "blueimp-md5": "2.16.0",
     "feed": "4.2.1",
     "import-all.macro": "3.0.0",
