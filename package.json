@@ -22,7 +22,7 @@
     "react-player": "2.5.0",
     "react-scripts-mdx": "3.0.3",
     "rimraf": "3.0.2",
-    "slugify": "1.4.4",
+    "slugify": "1.4.5",
     "typescript": "3.9.7"
   },
   "scripts": {
