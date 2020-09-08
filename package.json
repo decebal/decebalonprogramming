@@ -7,7 +7,7 @@
     "@oclif/config": "1.17.0",
     "blueimp-md5": "2.18.0",
     "feed": "4.2.1",
-    "import-all.macro": "3.0.0",
+    "import-all.macro": "3.1.0",
     "lodash": "4.17.20",
     "navi": "0.14.0",
     "navi-scripts": "0.14.0",
