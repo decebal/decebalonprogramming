@@ -7577,6 +7577,14 @@ find-up@^4.0.0, find-up@^4.1.0:
     locate-path "^5.0.0"
     path-exists "^4.0.0"
 
+find-up@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/find-up/-/find-up-5.0.0.tgz#4c92819ecb7083561e4f4a240a86be5198f536fc"
+  integrity sha512-78/PXT1wlLLDgTzDs7sjq9hzz0vXD+zn+7wypEe4fXQxCmdmqfGsEPQxmiCSQI3ajFV91bVSsvNtrJRiW6nGng==
+  dependencies:
+    locate-path "^6.0.0"
+    path-exists "^4.0.0"
+
 flat-cache@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/flat-cache/-/flat-cache-2.0.1.tgz#5d296d6f04bda44a4630a301413bdbc2ec085ec0"
@@ -11422,10 +11430,10 @@ nested-error-stacks@^2.0.0, nested-error-stacks@^2.1.0:
   resolved "https://registry.yarnpkg.com/nested-error-stacks/-/nested-error-stacks-2.1.0.tgz#0fbdcf3e13fe4994781280524f8b96b0cdff9c61"
   integrity sha512-AO81vsIO1k1sM4Zrd6Hu7regmJN1NSiAja10gc4bX3F0wd+9rQmcuHQaHVQCYIEC8iFXnE+mavh23GOt7wBgug==
 
-netlify-cli@3.29.17:
-  version "3.29.17"
-  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-3.29.17.tgz#c0999df322aa354c6e0bc9c1bc5a04017e842684"
-  integrity sha512-3ppX6fAhX/7ZYvKVwXMc9fjqdTR/Qbg18eTmksPo2nAcDRjNOsmTYLlmedRbQKY/D7KUXLneziDwatIjfLKOkA==
+netlify-cli@3.30.1:
+  version "3.30.1"
+  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-3.30.1.tgz#c67a14f2d91e6ba3b3230eb7e54a01ffdfc613e5"
+  integrity sha512-a4RcMpEroHOGq/PuiCGC8S19f9NJFvgVaiZFuwwvUMqr32jGUvWlTkqtHh/89eSUkWxvkooFSOzu4faz1Kc1BQ==
   dependencies:
     "@netlify/build" "^11.17.2"
     "@netlify/config" "^6.5.0"
@@ -11471,7 +11479,7 @@ netlify-cli@3.29.17:
     express "^4.17.1"
     express-logging "^1.1.1"
     filter-obj "^2.0.1"
-    find-up "^4.1.0"
+    find-up "^5.0.0"
     flush-write-stream "^2.0.0"
     folder-walker "^3.2.0"
     from2-array "^0.0.4"
