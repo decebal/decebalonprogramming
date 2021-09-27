@@ -5,7 +5,7 @@
   "homepage": "https://decebalonprogramming.net",
   "dependencies": {
     "@oclif/config": "1.17.0",
-    "blueimp-md5": "2.18.0",
+    "blueimp-md5": "2.19.0",
     "feed": "4.2.2",
     "import-all.macro": "3.1.0",
     "lodash": "4.17.21",
