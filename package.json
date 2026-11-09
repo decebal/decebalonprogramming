@@ -6,7 +6,7 @@
   "dependencies": {
     "@oclif/config": "1.18.3",
     "blueimp-md5": "2.19.0",
-    "feed": "4.2.2",
+    "feed": "6.0.0",
     "import-all.macro": "3.1.0",
     "lodash": "4.17.21",
     "navi": "0.14.0",
