@@ -14093,10 +14093,10 @@ react-kawaii@0.17.0:
   dependencies:
     prop-types "^15.6.2"
 
-react-navi-helmet-async@0.14.3:
-  version "0.14.3"
-  resolved "https://registry.yarnpkg.com/react-navi-helmet-async/-/react-navi-helmet-async-0.14.3.tgz#dba20d11954bb673253860230089c6638100bc38"
-  integrity sha512-OKuCKLVh/ONMNklrHrEw6AtH545+nTPtZhst5dNyECjomA3HYFpnGDm33MLC/MuwMG7fV/w2iyscQgaFN4WC8g==
+react-navi-helmet-async@0.15.0:
+  version "0.15.0"
+  resolved "https://registry.yarnpkg.com/react-navi-helmet-async/-/react-navi-helmet-async-0.15.0.tgz#764f5053fbc8ff21e519144c1848d84c6ddb2156"
+  integrity sha512-S4RUgv8CqcIfNxp9ut7GpB4WVc090gk/kw0nDHPS/7O7W87AsHA+fLC3trRUOAEfW1sK5V08pWg+UF4WG1vRNw==
   dependencies:
     "@types/react-helmet" "^5.0.8"
     react-helmet-async "^1.0.2"
